@@ -14,9 +14,9 @@
 </table>
 
 </div>
----
 
-## 💼  Work Experience
+
+##   Work Experience
 
 ### 🔹 SAP Ariba Consultant 
 - Led Ariba implementations for Procurement, SLP, and CLM  
@@ -24,10 +24,10 @@
 - Supported Ariba-S/4HANA integration via Cloud Integration Gateway (CIG)  
 - Conducted user training and post-implementation support  
 - Built test cases and managed SLP forms/questionnaires
+- 
 
----
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 
 **SAP Ariba:** Buying & Invoicing, SLP, CLM, Guided Buying, Ariba Network  
 **Integration:** Ariba CIG, SAP S/4HANA  
@@ -35,9 +35,8 @@
 **Reporting:** Ariba Analytical Reporting, S/4HANA Analytics  
 **Cloud Awareness:** SAP Ariba On-Demand, Integration Concepts
 
----
 
-## 🛠️ Functional Walkthroughs
+##  Functional Walkthroughs
 
 - [📦 Procure-to-Pay (P2P) Process](./P2P_Process.md)
 - [🧾 Supplier Onboarding Workflow (SLP)](./SLP_Onboarding_Workflow.md)
@@ -45,9 +44,9 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-📧Email: amruthwork26@gmail.com &nbsp;|&nbsp; 
+📧Email: [amruthwork26@gmail.com](mailto:amruthwork26@gmail.com) &nbsp;|&nbsp; 
 [🔗 LinkedIn](https://www.linkedin.com/in/amruth-acharya) &nbsp;|&nbsp; 
 [💻 GitHub](https://github.com/amruthw)
 
