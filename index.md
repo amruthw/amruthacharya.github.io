@@ -5,7 +5,7 @@
     </td>
     <td style="padding-left: 25px; vertical-align: top;">
       <p style="font-size: 16px; line-height: 1.6;">
-        SAP Ariba Functional Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing supplier onboarding workflows, contract templates, and approval chains. Familiar with integration scenarios using <strong>Cloud Integration Gateway (CIG)</strong> and SAP S/4HANA. Focused on delivering scalable, efficient, and compliant procurement solutions.
+        SAP Ariba Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing supplier onboarding workflows, contract templates, and approval chains. Familiar with integration scenarios using <strong>Cloud Integration Gateway (CIG)</strong> and SAP S/4HANA. Focused on delivering scalable, efficient, and compliant procurement solutions.
       </p>
     </td>
   </tr>
@@ -46,9 +46,7 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: amruthwork26@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/amruth-acharya)  
-- 💻 [GitHub](https://github.com/amruthw)
+📧 Email: [amruthwork26@gmail.com](mailto:amruthwork26@gmail.com) | 💼 [LinkedIn](www.linkedin.com/in/amruth-acharya) | 💻 [GitHub](https://github.com/amruthw)
 
 
 <!-- Rebuild trigger -->
