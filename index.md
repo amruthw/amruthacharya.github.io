@@ -1,15 +1,9 @@
-<table>
-  <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 8px; border: 1.5px solid #ccc;" />
-    </td>
-    <td style="padding-left: 25px; vertical-align: top;">
-      <p style="font-size: 16px; line-height: 1.6;">
-        SAP Ariba Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing supplier onboarding workflows, contract templates, and approval chains. Familiar with integration scenarios using <strong>Cloud Integration Gateway (CIG)</strong> and SAP S/4HANA. Focused on delivering scalable, efficient, and compliant procurement solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 8px; border: 2px solid #ccc; float: left; margin-right: 20px; margin-bottom: 10px;" />
+
+<p>
+  SAP Ariba Functional Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in configuring supplier onboarding workflows, contract templates, approval chains, and integrating Ariba with SAP S/4HANA using <strong>Cloud Integration Gateway (CIG)</strong>.
+</p>
+
 
 
 
@@ -44,9 +38,11 @@
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let's Connect
 
-📧 Email: [amruthwork26@gmail.com](mailto:amruthwork26@gmail.com) | 💼 [LinkedIn](www.linkedin.com/in/amruth-acharya) | 💻 [GitHub](https://github.com/amruthw)
+[📧 Email](mailto:amruthwork26@gmail.com) &nbsp;|&nbsp; 
+[🔗 LinkedIn](https://www.linkedin.com/in/amruth-acharya) &nbsp;|&nbsp; 
+[💻 GitHub](https://github.com/amruthw)
 
 
 <!-- Rebuild trigger -->
