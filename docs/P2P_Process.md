@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # 📦 Procure-to-Pay (P2P) Process – SAP Ariba
 
 This document outlines the typical P2P flow in SAP Ariba, based on my experience implementing downstream procurement processes.
