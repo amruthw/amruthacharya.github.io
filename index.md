@@ -1,11 +1,17 @@
-<img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 8px; border: 2px solid #ccc; float: left; margin-right: 20px; margin-bottom: 10px;" />
-
-<p>
-  SAP Ariba Functional Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in configuring supplier onboarding workflows, contract templates, approval chains, and integrating Ariba with SAP S/4HANA using <strong>Cloud Integration Gateway (CIG)</strong>.
-</p>
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 24px; vertical-align: top;">
+        <img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 10px; border: 2px solid #ccc;" />
+      </td>
+      <td style="text-align: left; max-width: 600px; font-size: 16px;">
+        <p>
+          <strong>SAP Ariba Functional Consultant</strong> with hands-on experience across <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing procurement workflows, supplier onboarding, contract templates, and integrating Ariba with SAP S/4HANA via <strong>Cloud Integration Gateway (CIG)</strong>. Focused on delivering scalable, efficient, and compliant digital procurement solutions.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
