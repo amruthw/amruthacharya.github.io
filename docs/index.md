@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-<img src="./Amruth pdf.jpg" alt="Amruth Acharya" width="140" style="border-radius: 10px; border: 2px solid #ccc;" />
+<img src="./Amruth pfp.jpg" alt="Amruth Acharya" width="140" style="border-radius: 10px; border: 2px solid #ccc;" />
 
 <p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
   <strong>SAP Ariba Consultant</strong><br>
