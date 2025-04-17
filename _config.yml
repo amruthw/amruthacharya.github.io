@@ -1,8 +1,8 @@
 title: "Amruth Acharya"
 description: |
-  <span style='font-size:16px; color:#111111; font-weight:500;'>SAP Ariba Consultant | P2P | SLP | CLM | CIG</span>
-theme: minimal-mistakes-jekyll
+  <span style='font-size:16px; color:#111111;'>SAP Ariba Consultant | P2P | SLP | CLM | CIG</span>
 
+theme: minimal-mistakes-jekyll
 #theme: jekyll-theme-primer
 #jekyll-theme-cayman   # Try also:
 # theme: jekyll-theme-minimal
