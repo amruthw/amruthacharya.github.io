@@ -47,7 +47,7 @@
 
 ## 🤝 Let's Connect
 
-[📧 Email](mailto:amruthwork26@gmail.com) &nbsp;|&nbsp; 
+📧Email: amruthwork26@gmail.com &nbsp;|&nbsp; 
 [🔗 LinkedIn](https://www.linkedin.com/in/amruth-acharya) &nbsp;|&nbsp; 
 [💻 GitHub](https://github.com/amruthw)
 
