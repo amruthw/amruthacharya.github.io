@@ -34,9 +34,9 @@ I’m an SAP Ariba Functional Consultant with hands-on experience in both **Upst
 
 ## 🛠️ Functional Walkthroughs
 
-- 📄 `P2P_Process.md` – Overview of the Ariba PR → PO → Invoice lifecycle  
-- 📄 `SLP_Onboarding_Workflow.md` – Supplier onboarding walkthrough with approval flows  
-- 📄 `CLM_Contract_Stages.md` – Contract lifecycle and document templates
+- [📦 Procure-to-Pay (P2P) Process](./P2P_Process.md)
+- [🧾 Supplier Onboarding Workflow (SLP)](./SLP_Onboarding_Workflow.md)
+- [📄 Contract Lifecycle Management (CLM)](./CLM_Contract_Stages.md)
 
 ---
 
