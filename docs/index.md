@@ -1,17 +1,12 @@
-<div align="center">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding-right: 24px; vertical-align: top;">
-      <img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 10px; border: 2px solid #ccc;" />
-    </td>
-    <td style="border: none; text-align: left; font-size: 16px; max-width: 600px;">
-      <p>
-        <strong>SAP Ariba Consultant</strong> with hands-on experience across <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing procurement workflows, supplier onboarding, contract templates, and integrating Ariba with SAP S/4HANA via <strong>Cloud Integration Gateway (CIG)</strong>. Focused on delivering scalable, efficient, and compliant digital procurement solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./Amruth pdf.jpg" alt="Amruth Acharya" width="140" style="border-radius: 10px; border: 2px solid #ccc;" />
+
+<p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
+  <strong>SAP Ariba Consultant</strong><br>
+  Experienced in <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules.<br>
+  Skilled in designing procurement workflows, supplier onboarding, contract templates, and integrating Ariba with SAP S/4HANA using <strong>Cloud Integration Gateway (CIG)</strong>.
+</p>
 
 </div>
 
