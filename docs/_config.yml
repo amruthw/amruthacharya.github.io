@@ -1,8 +1,9 @@
 title: "Amruth Acharya"
 description: "SAP Ariba Consultant | P2P | SLP | CLM | CIG"
-#theme: jekyll-theme-primer
+theme: jekyll-theme-caymanr
+
 #theme: jekyll-theme-primer
 #jekyll-theme-cayman   # Try also:
- theme: jekyll-theme-minimal
+ #theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-modernist
