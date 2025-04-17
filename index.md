@@ -1,9 +1,9 @@
----
-layout: default
-title: Amruth Acharya – SAP Ariba Functional Consultant
----
+<div align="center">
+  <img src="Amruth pfp.jpg" alt="Amruth Acharya" width="160" style="border-radius: 50%; border: 2px solid #007acc;" />
+</div>
 
-<img src="profile.jpg" alt="Amruth Acharya" width="160" style="border-radius: 50%; border: 2px solid #007acc;" />
+
+
 
 # 👋 Hello, I'm Amruth Acharya
 
