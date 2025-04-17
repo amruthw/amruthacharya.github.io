@@ -24,7 +24,6 @@
 - Supported Ariba-S/4HANA integration via Cloud Integration Gateway (CIG)  
 - Conducted user training and post-implementation support  
 - Built test cases and managed SLP forms/questionnaires
-- 
 
 
 ##  Skills & Tools
@@ -45,7 +44,6 @@
 ---
 
 ##  Let's Connect
-
 Email: [amruthwork26@gmail.com](mailto:amruthwork26@gmail.com) &nbsp;|&nbsp; 
 [🔗 LinkedIn](https://www.linkedin.com/in/amruth-acharya) &nbsp;|&nbsp; 
 [💻 GitHub](https://github.com/amruthw)
