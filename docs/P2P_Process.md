@@ -1,6 +1,3 @@
----
-layout: none
----
 
 # 📦 Procure-to-Pay (P2P) Process – SAP Ariba
 
