@@ -49,4 +49,7 @@
 
 - 📧 Email: amruthwork26@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/amruth-acharya)  
-- 💻 [GitHub](https://github.com/amruthacharya)  
+- 💻 [GitHub](https://github.com/amruthw)
+
+
+<!-- Rebuild trigger -->
