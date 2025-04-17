@@ -1,12 +1,11 @@
 <table>
   <tr>
-    <td style="width: 160px;">
-      <img src="./Amruth pfp.jpg" alt="Profile Picture" width="150" style="border-radius: 10px; border: 2px solid #007acc;" />
+    <td style="width: 200px; vertical-align: top;">
+      <img src="./Amruth pfp.jpg" alt="Profile Picture" width="180" style="border-radius: 8px; border: 1.5px solid #ccc;" />
     </td>
-    <td style="padding-left: 20px; vertical-align: top;">
-      <p>
-        I’m an SAP Ariba Functional Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules.
-        I focus on building efficient procurement workflows, enabling supplier collaboration, and integrating Ariba with SAP S/4HANA using <strong>Cloud Integration Gateway (CIG)</strong> to support digital procurement transformation.
+    <td style="padding-left: 25px; vertical-align: top;">
+      <p style="font-size: 16px; line-height: 1.6;">
+        SAP Ariba Functional Consultant with hands-on experience in both <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules. Skilled in designing supplier onboarding workflows, contract templates, and approval chains. Familiar with integration scenarios using <strong>Cloud Integration Gateway (CIG)</strong> and SAP S/4HANA. Focused on delivering scalable, efficient, and compliant procurement solutions.
       </p>
     </td>
   </tr>
