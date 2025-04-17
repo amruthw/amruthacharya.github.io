@@ -3,7 +3,7 @@
 <img src="./Amruth pfp.jpg" alt="Amruth Acharya" width="140" style="border-radius: 10px; border: 2px solid #ccc;" />
 
 <p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
-  <strong>SAP Ariba Consultant</strong>
+  <strong>SAP Ariba Consultant</strong><br>
 Experienced in <strong>Upstream</strong> (SLP, Sourcing, CLM) and <strong>Downstream</strong> (P2P, Buying & Invoicing) modules.
 Skilled in designing procurement workflows,supplier onboarding,contract templates, and integrating Ariba with SAP S/4HANA using <strong> Cloud Integration Gateway (CIG)</strong>.
   
